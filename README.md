@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Chaitanya 👋<br>🎓 Currently studying at SRM University  <br>💻 Full-Stack Developer in progress  <br>📚 Currently learning: JavaScript , Web Development  <br>🚀 Building real-world projects and improving daily  <br>  🎯 Goal: Become a strong Software Engineer with real impact  <br>📫 Let's connect and build something amazing!<br>
+# Hi, I'm Chaitanya 👋<br>🎓 Currently studying at SRM University  <br>💻 Full-Stack Developer in progress  <br>📚 Currently learning: JavaScript , React ,  DBMS , App Development   <br>🚀 Building real-world projects and improving daily  <br>  🎯 Goal: Become a strong Software Engineer with real impact  <br>📫 Let's connect and build something amazing!<br>
 
 
 ## 🌐 Socials:
