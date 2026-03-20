@@ -20,13 +20,7 @@
 
 ## what I actually am
 ```
-if (age <= 17){
-    have_sex();
-    }
-    
-else{
-       System.out.println("Too old);
-     }
+ 
 ```
 
 &nbsp;
